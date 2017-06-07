@@ -1,0 +1,9 @@
+PROGRAM TEST
+
+REAL X, Y
+PRINT *, 'ENTER TWO NUMBERS: '
+READ *, X, Y
+PRINT *, 'X: ', X
+PRINT *, 'Y: ', Y
+
+END
